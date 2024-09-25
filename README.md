@@ -14,9 +14,10 @@ Una lista de los mejores jugadores de la pasada edición de la Eurocopa 2024:
 10. Fabían Ruiz
 
 
-També podeu afegir [enllaços]([](https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TDYFBIXLYZRBGHAMT7NLFU4JJQ.jpg)) i mostrar imatges:
+També podeu afegir [enllaços]([https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TDYFBIXLYZRBGHAMT7NLFU4JJQ.jpg]) i mostrar imatges:
 
 ![Imatge d'exemple]([https://cloudfront-eu-central-1.images.arcpublishing.com/diarioas/TDYFBIXLYZRBGHAMT7NLFU4JJQ.jpg)]
+
 
 Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
 
