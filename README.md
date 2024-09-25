@@ -24,7 +24,7 @@ També podeu afegir [enllaços]
 ![Imatge d'exemple](https://e-ad.americatv.com.pe/futbol-mundial-que-harry-kane-fue-tendencia-titulo-espana-eurocopa-2024-n445759-609x342-1024772.jpg)
 ![Imatge d'exemple](https://oneftbl-cms.imgix.net/https%3A%2F%2Ffilebucket.onefootball.com%2F2024%2F6%2F1718392844395-blob?auto=format%2Ccompress&crop=faces&dpr=2&fit=crop&h=630&q=25&w=840&s=0e96ec003d3ba559d5765d0722367dd4)
 ![Imatge d'exemple](https://images.ecestaticos.com/mSmp0gItgNFf4JuFaMByOY4mCdY=/0x185:2273x1462/972x547/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2d4%2F01a%2F816%2F2d401a816b47ef4e439c50a37f567418.jpg)
-![Imatge d'exemple](https://www.threads.net/@e360hub_football/post/C8ev33ECYmi)
+![Imatge d'exemple](https://livesport-ott-images.ssl.cdn.cra.cz/r900xfq60/2db8d571-8aa5-4cdb-8c47-8d4e55ed99e4.avif)
 ![Imatge d'exemple](https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1qJ6Uw.img?w=760&h=427&m=6&x=309&y=30&s=82&d=82)
 
 Podeu ressaltar el text en *cursiva* o **negreta** segons les vostres necessitats.
