@@ -1,10 +1,18 @@
 # El meu document Markdown
 
-Aquest és un paràgraf de text normal. Aquí tens una llista de la compra:
+Una lista de los mejores jugadores de la pasada edición de la Eurocopa 2024:
 
-- Manzanas
-- Els plàtans
-- Taronges
+1. Rodrigo Hernández
+2. Lamine Yamal
+3. Dani Olmo
+4. Jamal Musiala
+5. Nico Williams
+6. Harry Kane
+7. Wirtz
+8. Dani Carvajal
+9. Schranz
+10. Fabían Ruiz
+
 
 També podeu afegir [enllaços](https://www.exemple.com) i mostrar imatges:
 
